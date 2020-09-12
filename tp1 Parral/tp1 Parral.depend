@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1599398327 source:c:\users\parra\desktop\tp1 parral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"parral.h"
+
+1599400496 c:\users\parra\desktop\tp1 parral\parral.h
+
+1599351780 c:\users\parra\desktop\tp1 parral\parral.c
+	"parral.h"
+
+1599358651 source:c:\users\parra\desktop\tp1 parral\parral.c
+	"parral.h"
+
+1599913177 source:c:\users\parra\desktop\labo-progra\tp1 parral\parral.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"parral.h"
+
+1599913177 c:\users\parra\desktop\labo-progra\tp1 parral\parral.h
+
+1599873657 source:c:\users\parra\desktop\labo-progra\tp1 parral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"parral.h"
+
