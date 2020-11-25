@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1606320081 source:c:\users\parra\desktop\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"funciones.h"
+	"controller.h"
+
+1605230323 c:\users\parra\desktop\win_64\linkedlist.h
+
+1606282165 c:\users\parra\desktop\win_64\employee.h
+	"LinkedList.h"
+
+1605230323 c:\users\parra\desktop\win_64\parser.h
+
+1606279798 c:\users\parra\desktop\win_64\funciones.h
+
+1606154725 c:\users\parra\desktop\win_64\controller.h
+	"LinkedList.h"
+
+1606320659 source:c:\users\parra\desktop\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"LinkedList.h"
+
+1606279798 source:c:\users\parra\desktop\win_64\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1606285538 source:c:\users\parra\desktop\win_64\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606320634 source:c:\users\parra\desktop\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"funciones.h"
+
+1606320725 source:c:\users\parra\desktop\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
